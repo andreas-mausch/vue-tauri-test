@@ -21,3 +21,14 @@ npm run build
 ```
 tauri build
 ```
+
+## How this project has been created
+
+```
+# settings for vue create: node-sass, babel, typescript, eslint
+vue create .
+npm install
+npm run build
+tauri init
+tauri build
+```
